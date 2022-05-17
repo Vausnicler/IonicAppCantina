@@ -1,0 +1,32 @@
+.descricao-produto{
+  text-align: center;
+  color: #000000;
+  font-size: 18px;
+  margin-top: 20px;
+  font-style: oblique;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.valor-produto{
+  color: #020101;
+  font-size: 30px;
+  text-align: center;
+}
+
+.footer-produto{
+  background-color: #ccc;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.inp-quantidade{
+  color: #000000;
+  text-align: center;
+  background-color: var(--white-smoke);
+  border-radius: 10px;
+  max-width: 100%;
+  width: 100%;
+}
